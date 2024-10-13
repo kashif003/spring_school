@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78295c14-0d76-4e11-a189-278cd5d65ade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/game_logic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semantic_segmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/semantic_segmentation.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kashif003&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kashif003/spring_school.git&quot;,
+    &quot;accountId&quot;: &quot;a416d38c-d128-4709-9cfd-e412974fb672&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lf9243k1RGUGbU6Or0agooa6iG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.markling.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kashi/Downloads/Niryo-Coding-20240829&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kashi\Downloads\Niryo-Coding-20240829" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kashi\Desktop\Working_projects\spring_school\spring_school\Niryo-Coding-20240829\computer_vision" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78295c14-0d76-4e11-a189-278cd5d65ade" name="Changes" comment="" />
+      <created>1725560052730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725560052730</updated>
+      <workItem from="1725560054016" duration="1137000" />
+      <workItem from="1726494815884" duration="661000" />
+      <workItem from="1726500433431" duration="511000" />
+      <workItem from="1726593216626" duration="2762000" />
+      <workItem from="1726596014509" duration="69000" />
+      <workItem from="1726663512970" duration="490000" />
+      <workItem from="1726771769854" duration="1204000" />
+      <workItem from="1726818791521" duration="328000" />
+      <workItem from="1726821835717" duration="14000" />
+      <workItem from="1726823156328" duration="133000" />
+      <workItem from="1726829349920" duration="1000" />
+      <workItem from="1727184266986" duration="53000" />
+      <workItem from="1727185306493" duration="29000" />
+      <workItem from="1727185969013" duration="57000" />
+      <workItem from="1727598957213" duration="14000" />
+      <workItem from="1727702824235" duration="6000" />
+      <workItem from="1727781788627" duration="484000" />
+      <workItem from="1727790516297" duration="1737000" />
+      <workItem from="1728034858068" duration="19000" />
+      <workItem from="1728037990405" duration="1000" />
+      <workItem from="1728282002304" duration="47000" />
+      <workItem from="1728651861289" duration="461000" />
+      <workItem from="1728720426306" duration="1000" />
+      <workItem from="1728721557877" duration="812000" />
+      <workItem from="1728724508675" duration="49000" />
+      <workItem from="1728725023220" duration="2000" />
+      <workItem from="1728725521464" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/movement_ipynb$markling.coverage" NAME="markling Coverage Results" MODIFIED="1726772934203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
